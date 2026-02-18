@@ -12,7 +12,7 @@ Merge Guardian addresses one of the most persistent challenges facing enterprise
 
 As organizations grow from dozens to hundreds of developers, code integration becomes a critical bottleneck. Pull requests accumulate, the main branch becomes unstable, release timelines slip, and engineers spend increasing amounts of time resolving merge conflicts instead of delivering value. What begins as occasional friction evolves into systemic disruption.
 
-This phenomenon—often referred to as *merge hell*—results in lost productivity, reduced confidence in releases, and mounting operational risk.
+This phenomenon often referred to as *merge hell* results in lost productivity, reduced confidence in releases, and mounting operational risk.
 
 Merge Guardian transforms this complexity into a structured, automated, and predictable workflow. By combining native GitHub merge queue capabilities with advanced AI-driven analysis, the platform ensures stable main branches, optimized merge sequencing, and continuous developer productivity.
 
